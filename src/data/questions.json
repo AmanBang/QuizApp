@@ -1,0 +1,22 @@
+[{
+    "title": "What is Your Continent?",
+    "option" : ["Australia", "Europe", "America", "Aisa"],
+    "correctOptionIndex" : 2
+},
+{
+    "title": "What is Your Name?",
+    "option" : ["Aman", "Franki", "HERO", "Ash"],
+    "correctOptionIndex" : 0
+},{
+    "title": "WHat is fav subject",
+    "option" : ["OOP", "python", "JS", "HTML"],
+    "correctOptionIndex" : 2
+},{
+    "title": "What is Your Fav one piece character",
+    "option" : ["Luffy", "Franki", "Chopper", "zoro"],
+    "correctOptionIndex" : 3
+},{
+    "title": "What is Age",
+    "option" : ["2", "23", "21", "20"],
+    "correctOptionIndex" : 2
+}]
